@@ -41,6 +41,10 @@ Displays a list of user profile cards using `.map()` and props. Includes avatar,
 ## 📸 Screenshots
 
 ![Screenshot 2025-06-04 001541](https://github.com/user-attachments/assets/28d6956b-13a8-461a-9eac-b9cec85f20b5)
+![Screenshot 2025-06-04 001552](https://github.com/user-attachments/assets/8abcbd9d-932d-49ff-9994-1214d74e0da6)
+![Screenshot 2025-06-04 001458](https://github.com/user-attachments/assets/901a3fd7-d577-4d1d-9a77-f84316a8eea7)
+
+
 
 
 
